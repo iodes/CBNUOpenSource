@@ -8,3 +8,7 @@ CBNU Open Source Repo
 * ff
 * test
 * testtest
+
+## in master branch
+* test
+* test2
