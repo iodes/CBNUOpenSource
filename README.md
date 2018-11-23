@@ -6,5 +6,5 @@ CBNU Open Source Repo
 * 강산
 * 김주호
 
-##추천 프로그램
+## 추천 프로그램
 * github
