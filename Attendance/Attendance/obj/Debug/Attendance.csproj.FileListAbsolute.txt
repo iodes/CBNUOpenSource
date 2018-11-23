@@ -16,3 +16,14 @@ C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.csprojAsse
 C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\bin\Debug\Attendance.exe.config
 C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\Attendance.exe
 C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\Attendance.pdb
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\bin\Debug\Attendance.exe
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\bin\Debug\Attendance.pdb
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\Attendance.csprojResolveAssemblyReference.cache
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\MainWindow.g.cs
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\App.g.cs
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\Attendance_MarkupCompile.cache
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\Attendance_MarkupCompile.lref
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\MainWindow.baml
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\Attendance.g.resources
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\Attendance.Properties.Resources.resources
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\Attendance.csproj.GenerateResource.Cache

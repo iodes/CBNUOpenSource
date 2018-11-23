@@ -18,13 +18,13 @@ namespace Attendance
             var myUser = new User
             {
                 Name = "AndyLee",
-                Sex = SexType.Male,
+                Sex = "Male",
                 IsAttended = true
             };
             var myUser2 = new User
             {
                 Name = "HongHong",
-                Sex = SexType.Female,
+                Sex = "Female",
                 IsAttended = false
             };
 

@@ -24,7 +24,7 @@ namespace Attendance
 
         bool Attendance = false;
 
-      
+        string genderSelection = "Male";
 
 
         public MainWindow()
@@ -41,7 +41,7 @@ namespace Attendance
             manager.Users.Add(new User
             {
                 Name = userName.Text,
-                Sex = gender.SelectedItem,
+                Sex = genderSelection,
                 IsAttended = Attendance
             });
             
@@ -62,9 +62,9 @@ namespace Attendance
         {
             switch (gender.SelectedIndex)
             {
-                case 0: break;
+                case 0: genderSelection = "Male"; break;
 
-                case 0: break;
+                case 1: genderSelection = "Female"; break;
             }
         }
     }

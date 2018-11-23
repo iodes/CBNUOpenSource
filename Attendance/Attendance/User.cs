@@ -14,13 +14,10 @@ namespace Attendance
 
     public class User
     {
-        private string _name;
-        public string Name {
-            get => _name+"님";
-            set => _name = value;
-        }
+        
+        public string Name { get; set; }
 
-        public SexType Sex { get; set; }
+        public string Sex { get; set; }
 
         public TimeSpan Time { get; set; }
 
