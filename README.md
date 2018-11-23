@@ -1,10 +1,10 @@
 # CBNUOpenSource
 CBNU Open Source Repo
 
-## 참가자 명단
+## list
 * 소현섭
 * 강산
-* 장문기
+* jang moon ki
 * 송유헌
 
 ## 아ㅏ아이이잉
