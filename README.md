@@ -6,5 +6,5 @@ CBNU Open Source Repo
 * 강산
 * 강경민
 
-# 추천프로그램
+# 추천 프로그램
 * Gitahead
