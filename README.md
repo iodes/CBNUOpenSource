@@ -5,3 +5,4 @@ CBNU Open Source Repo
 * 소현섭
 * 강산
 * 백진수
+* 진수
