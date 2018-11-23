@@ -5,7 +5,6 @@ CBNU Open Source Repo
 ## 참가자 명단	
 * 소연섭
 * 강산봇  
-* 이연규
-
+* 이연규  
 #추천프로그램
 * Gitahead
