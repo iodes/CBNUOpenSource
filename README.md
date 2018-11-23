@@ -8,6 +8,3 @@ CBNU Open Source Repo
 
 # 추천 프로그램
 * GitAhead
-
-# 가나
-ㅇㄹㄴㅇㄹㄴㅇㄹㄴㄹ
