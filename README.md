@@ -7,6 +7,6 @@ CBNU Open Source Repo
 * 이종원
 
 ## 새로운 프로그램
-*GetAhead
-*C++
-*ㅗㅎㅍ
+* GetAhead
+* C++
+* ㅗㅎㅍ
