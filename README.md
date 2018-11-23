@@ -6,6 +6,6 @@ CBNU Open Source Repo
 * 강산
 * 유제혁
 
-#GitAhead
-*gitahead
-*2시 48분
+##GitAhead
+* gitahead
+* 2시 48분
