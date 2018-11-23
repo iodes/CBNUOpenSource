@@ -9,4 +9,6 @@ CBNU Open Source Repo
 * bye
 * test
 * 앞선수정
-* 로컬 수
+* 로컬 수정
+* 서버수정
+
