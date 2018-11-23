@@ -5,4 +5,6 @@ CBNU Open Source Repo
 * 소현섭
 * 강산
 * 이종원
-* 최수빈
+
+## 새로운 프로그램
+*GetAhead
