@@ -6,5 +6,5 @@ CBNU Open Source Repo
 * 강산
 * 임혜인
 
-##추천프로그램
-*GitAhead
+## 추천프로그램
+* GitAhead
