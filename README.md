@@ -8,3 +8,4 @@ CBNU Open Source Repo
 
 ## 와 신기하다
  * GitAhead
+ * 실습중입니다.
