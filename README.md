@@ -8,5 +8,3 @@ CBNU Open Source Repo
 * 우아아아앙
 * 또?
 
-## s넹
- * 신기하네
