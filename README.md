@@ -15,3 +15,4 @@ CBNU Open Source Repo
     * Branch test
 * What if I change file on github.com
     * How does it work on gitahead
+	* I pulled changes on file
