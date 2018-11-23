@@ -16,3 +16,4 @@ CBNU Open Source Repo
 * hello man
 * ETC...
 * 한글버전입니다.
+* 다시 연습입니다.
