@@ -15,3 +15,4 @@ CBNU Open Source Repo
 * hello to my friends
 * hello man
 * ETC...
+* 한글버전입니다.
