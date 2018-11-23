@@ -8,3 +8,4 @@ CBNU Open Source Repo
 
 #GitAhead
 *gitahead
+*2시 48분
