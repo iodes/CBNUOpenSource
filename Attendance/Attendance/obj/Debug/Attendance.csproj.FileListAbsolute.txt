@@ -1,0 +1,15 @@
+C:\Users\cbnu\source\repos\Attendance\Attendance\bin\Debug\Attendance.exe.config
+C:\Users\cbnu\source\repos\Attendance\Attendance\bin\Debug\Attendance.exe
+C:\Users\cbnu\source\repos\Attendance\Attendance\bin\Debug\Attendance.pdb
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\MainWindow.g.cs
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\App.g.cs
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance_MarkupCompile.cache
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance_MarkupCompile.lref
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\MainWindow.baml
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.g.resources
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.Properties.Resources.resources
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.GenerateResource.cache
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.CoreCompileInputs.cache
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.exe
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.pdb
+C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.csprojAssemblyReference.cache
