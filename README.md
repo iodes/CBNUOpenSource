@@ -5,3 +5,4 @@ CBNU Open Source Repo
 * 소현섭
 * 강산
 * 김상우
+##opencv나 하고싶다
