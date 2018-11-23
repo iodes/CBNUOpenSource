@@ -2,7 +2,7 @@
 CBNU Open Source Repo
 * Git Test
 
-## ì°¸ê°€ìž ëª…ë‹¨
-* ì†Œí˜„ì„­
-* ê°•ì‚°
-* ì´ì—°ê·œ
+## Âü°¡ÀÚ ¸í´Ü	
+* ¼Ò¿¬¼·
+* °­»êº¿  
+* ÀÌ¿¬±Ô
