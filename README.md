@@ -8,3 +8,4 @@ CBNU Open Source Repo
 * hello
 * bye
 * test
+* 앞선수정
