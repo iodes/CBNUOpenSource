@@ -1,4 +1,4 @@
-
+   
 # CBNUOpenSource
 CBNU Open Source Repo
 
@@ -9,5 +9,5 @@ CBNU Open Source Repo
 * Change 1
 
 ## 시공조아
-항상 감사하십시오
-And I also
+* 항상 감사하십시오
+* And I also
