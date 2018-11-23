@@ -9,3 +9,4 @@ CBNU Open Source Repo
 * bye
 * test
 * 앞선수정
+* 로컬 수
