@@ -7,4 +7,4 @@ CBNU Open Source Repo
 * 조우석
 
 ## GITAHEAD
-*gitahead
+* gitahead
