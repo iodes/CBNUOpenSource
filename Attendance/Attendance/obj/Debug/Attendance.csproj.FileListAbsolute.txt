@@ -13,3 +13,6 @@ C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.csproj.Cor
 C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.exe
 C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.pdb
 C:\Users\cbnu\source\repos\Attendance\Attendance\obj\Debug\Attendance.csprojAssemblyReference.cache
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\bin\Debug\Attendance.exe.config
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\Attendance.exe
+C:\Users\AndyLee\Documents\Gitahead\CBNUOpenSource\Attendance\Attendance\obj\Debug\Attendance.pdb
