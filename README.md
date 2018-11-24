@@ -16,6 +16,7 @@ README 파일까지 마크 다운으로 작성해서 자신의 개발 결과물�
 * BONUS 2 : 가사 창에 좋은 디자인
 
 ## 실습 데이터 다운로드
+* [플레이어 설치 파일](http://www.kodnix.com/Services/Presto/)
 * [다국어 가사 데이터](http://sendanywhe.re/LJEAXK2P)
 * [실습 데이터](http://sendanywhe.re/2Q85OFND)
 
