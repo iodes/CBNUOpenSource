@@ -2,6 +2,7 @@
 CBNU Open Source Repo
 
 ## 자료 제출
+* 11월 30일까지 마감
 * iodesme@gmail.com
 이메일로 GitHub 저장소 주소를 제출  
 README 파일까지 마크 다운으로 작성해서 자신의 개발 결과물을 잘 설명해주세요.
