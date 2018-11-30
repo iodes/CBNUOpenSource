@@ -7,6 +7,17 @@ CBNU Open Source Repo
 이메일로 GitHub 저장소 주소를 제출  
 README 파일까지 마크 다운으로 작성해서 자신의 개발 결과물을 잘 설명해주세요.
 
+## 제출 목록
+* [개인 : 송유현](https://github.com/Yuheon/CBNUOpenSource2)
+* [개인 : 이연규](https://github.com/eotjddusrb/LyricPlugin)
+* [개인 : 김효건](https://github.com/men7627/LyricsProject)
+* [개인 : 김형래](https://github.com/HyeongRae/ProjectPresto)
+* [개인 : 신종훈](https://github.com/newmembrane/OSSCamp_submit)
+* [팀 : 정훈 / 최번성](https://github.com/JungHoon99/CBNU_team)
+* [팀 : 원경식 / 김찬영](https://github.com/aekik1118/CBNUOpenSourcePrestoLyrics)
+* [팀 : 정주호 / 임현석](https://github.com/cr3ux53c/Presto.SWCamp.Lyrics)
+* [팀 : 김상우 / 조영재](https://github.com/ksw7564/PrestoLRCPlug)
+
 ## 평가 기준 
 * Lv.1 : 싱크 가사 출력 (하나라도)
 * Lv.2 : Dance The Night Away까지 성공 (] 문자 처리)
