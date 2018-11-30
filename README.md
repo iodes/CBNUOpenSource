@@ -10,7 +10,6 @@ README 파일까지 마크 다운으로 작성해서 자신의 개발 결과물�
 ## 제출 목록
 * [개인 : 송유현](https://github.com/Yuheon/CBNUOpenSource2)
 * [개인 : 이연규](https://github.com/eotjddusrb/LyricPlugin)
-* [개인 : 김효건](https://github.com/men7627/LyricsProject)
 * [개인 : 김형래](https://github.com/HyeongRae/ProjectPresto)
 * [개인 : 신종훈](https://github.com/newmembrane/OSSCamp_submit)
 * [팀 : 정훈 / 최번성](https://github.com/JungHoon99/CBNU_team)
